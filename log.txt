@@ -1,0 +1,2 @@
+44206f8 (HEAD -> main) Afegeix instruccions
+74c6701 (origin/main) Afegeix pàgina principal
